@@ -10,4 +10,4 @@ Roadmap, exercises, activities, courses, labs, projects &amp; certificates.
 - Foundations of Cybersecurity
 
 ### The Path Structure into Cybersecurity
-https://roadmap.sh/cyber-security by @kamranahmedse [Roadmap] (https://github.com/kamranahmedse/developer-roadmap)
+https://roadmap.sh/cyber-security by @kamranahmedse [Roadmap](https://github.com/kamranahmedse/developer-roadmap)
