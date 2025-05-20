@@ -8,3 +8,6 @@ Roadmap, exercises, activities, courses, labs, projects &amp; certificates.
 
 ### Google Cybersecurity Path
 - Foundations of Cybersecurity
+
+### The Path Structure into Cybersecurity
+https://roadmap.sh/cyber-security by @kamranahmedse [Roadmap] (https://github.com/kamranahmedse/developer-roadmap)
